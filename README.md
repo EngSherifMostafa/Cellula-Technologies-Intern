@@ -1,5 +1,5 @@
 # Cellula-ML
-## •	Internship at Cellula-Technologies for a duration of six weeks
+## Internship at Cellula-Technologies for a duration of six weeks
 ### [2 Feb 2024 – 15 Mars 2024]
 ### Linkedin Page
 ### https://eg.linkedin.com/company/cellula-technologies?trk=public_post_feed-actor-name
